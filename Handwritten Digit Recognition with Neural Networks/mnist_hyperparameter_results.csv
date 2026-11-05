@@ -1,0 +1,11 @@
+Experiment,Configuration,Train Accuracy,Validation Accuracy,Validation Loss
+Hidden Layer Size,256,99.394,97.33,0.11139330116808414
+Hidden Layer Size,128,99.236,97.32,0.10790407621711492
+Number of Hidden Layers,1 Hidden Layer,99.31,97.27,0.08869516205452382
+Learning Rate,0.001,99.14,97.24,0.11114875366901979
+Number of Hidden Layers,2 Hidden Layers,99.14,97.24,0.11114875366901979
+Hidden Layer Size,64,98.922,97.0,0.11450070063769817
+Number of Hidden Layers,3 Hidden Layers,99.1,96.75,0.12312428066357971
+Learning Rate,0.01,97.796,96.05,0.22471213708519935
+Hidden Layer Size,32,97.438,95.8,0.14281435080170632
+Learning Rate,0.1,19.148,21.17,1.9982039661407471

@@ -1,0 +1,4 @@
+Activation,Final Train Accuracy (%),Final Validation Accuracy (%),Final Test Accuracy (%),Time to 90% (seconds),Total Training Time (seconds)
+Sigmoid,99.61,97.39,97.66,2.493396043777466,35.00537824630737
+ReLU,99.574,97.64,97.76,2.37034273147583,34.43001055717468
+Tanh,99.756,97.06,97.45,2.384535789489746,34.63996410369873
